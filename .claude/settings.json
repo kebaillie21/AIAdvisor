@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__b984c26a-0f8f-4522-9029-7caad4e6d5a4__create_draft",
+      "mcp__b984c26a-0f8f-4522-9029-7caad4e6d5a4__create_label",
+      "mcp__b984c26a-0f8f-4522-9029-7caad4e6d5a4__get_thread",
+      "mcp__b984c26a-0f8f-4522-9029-7caad4e6d5a4__list_drafts",
+      "mcp__b984c26a-0f8f-4522-9029-7caad4e6d5a4__list_labels",
+      "mcp__b984c26a-0f8f-4522-9029-7caad4e6d5a4__search_threads",
+      "mcp__3be26958-95a0-4883-beaf-f9d7e62692d1__create_event",
+      "mcp__3be26958-95a0-4883-beaf-f9d7e62692d1__delete_event",
+      "mcp__3be26958-95a0-4883-beaf-f9d7e62692d1__get_event",
+      "mcp__3be26958-95a0-4883-beaf-f9d7e62692d1__list_calendars",
+      "mcp__3be26958-95a0-4883-beaf-f9d7e62692d1__list_events",
+      "mcp__3be26958-95a0-4883-beaf-f9d7e62692d1__respond_to_event",
+      "mcp__3be26958-95a0-4883-beaf-f9d7e62692d1__suggest_time",
+      "mcp__3be26958-95a0-4883-beaf-f9d7e62692d1__update_event"
+    ]
+  }
+}
